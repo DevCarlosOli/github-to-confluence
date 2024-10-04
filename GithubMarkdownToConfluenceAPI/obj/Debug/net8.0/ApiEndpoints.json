@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "GithubMarkdownToConfluenceAPI.Controllers.GitHubController",
+    "Method": "ProcessMarkdownFromGitHub",
+    "RelativePath": "api/GitHub/process",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "owner",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "repository",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "delimiter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "branch",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

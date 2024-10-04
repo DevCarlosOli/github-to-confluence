@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZBxr99riM8my12QGC6R9A3LYiYAcQwtPdw4LLAcI9uQ=",
+  "Source": "GithubMarkdownToConfluenceAPI",
+  "BasePath": "_content/GithubMarkdownToConfluenceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
